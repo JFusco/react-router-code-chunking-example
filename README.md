@@ -1,4 +1,9 @@
 # react-webpack-es6-chunking
+
+[![npm][npm-version-image]][npm-url]
+[![Dependency Status][dep-image]][dep-url]
+[![devDependency Status][dev-dep-image]][dev-dep-url]
+
 > ES6 react + webpack + react-router + code-chunking starter project.
 
 This repository was created to demonstrate a simple application that lazy loads views/scripts using the latest [React](https://www.npmjs.com/package/react) and [React-Router](https://www.npmjs.com/package/react-router).  Bundling and chunking gets handled with [Webpack](https://www.npmjs.com/package/webpack) and is written in ES6.
@@ -33,3 +38,10 @@ $ npm install
 $ npm run compile
 ```
 **Open your browser and navigate to http://127.0.0.1:8080/**
+
+[npm-url]: https://npmjs.com/package/es6-event-emitter
+[npm-version-image]: https://img.shields.io/npm/v/npm.svg?maxAge=2592000
+[dev-dep-image]: https://david-dm.org/JFusco/react-webpack-es6-chunking/dev-status.svg
+[dev-dep-url]: https://david-dm.org/JFusco/react-webpack-es6-chunking#info=devDependencies
+[dep-image]: https://img.shields.io/david/JFusco/react-webpack-es6-chunking.svg
+[dep-url]: https://david-dm.org/JFusco/react-webpack-es6-chunking
