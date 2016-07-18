@@ -1,6 +1,8 @@
 # react-webpack-es6-chunking
 > ES6 react + webpack + react-router + code-chunking starter project.
 
+This repository was created to demonstrate a simple application that lazy loads views/scripts using the latest [React](https://www.npmjs.com/package/react) and [React-Router](https://www.npmjs.com/package/react-router).  Bundling and chunking gets handled with [Webpack](https://www.npmjs.com/package/webpack) and is written in ES6.
+
 ## Requirements
 The following tools are required to get this running.
 
