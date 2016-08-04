@@ -1,4 +1,4 @@
-# react-webpack-es6-chunking
+# react-router-code-chunking-example
 
 ![npm][npm-version-image]
 [![Dependency Status][dep-image]][dep-url]
@@ -40,7 +40,7 @@ $ npm run dev
 **Open your browser and navigate to localhost:8080**
 
 [npm-version-image]: https://img.shields.io/npm/v/npm.svg?maxAge=2592000
-[dev-dep-image]: https://david-dm.org/JFusco/react-webpack-es6-chunking/dev-status.svg
-[dev-dep-url]: https://david-dm.org/JFusco/react-webpack-es6-chunking#info=devDependencies
-[dep-image]: https://img.shields.io/david/JFusco/react-webpack-es6-chunking.svg
-[dep-url]: https://david-dm.org/JFusco/react-webpack-es6-chunking
+[dev-dep-image]: https://david-dm.org/JFusco/react-router-code-chunking-example/dev-status.svg
+[dev-dep-url]: https://david-dm.org/JFusco/react-router-code-chunking-example#info=devDependencies
+[dep-image]: https://img.shields.io/david/JFusco/react-router-code-chunking-example.svg
+[dep-url]: https://david-dm.org/JFusco/react-router-code-chunking-example
