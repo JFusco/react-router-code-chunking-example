@@ -3,8 +3,10 @@
 import React from 'react';
 import { Router, browserHistory } from 'react-router'
 import { render } from 'react-dom';
-import appRoutes from './routes/app.routes';
+import routes from './routes';
+
+const app = document.getElementById('application');
 
 render((
-  <Router history={browserHistory} routes={appRoutes} />
-), document.getElementById('application'));
+	<Router history={browserHistory} routes={routes}/>
+), app);

@@ -1,12 +1,12 @@
 # react-webpack-es6-chunking
 
-[![npm][npm-version-image]][npm-url]
+![npm][npm-version-image]
 [![Dependency Status][dep-image]][dep-url]
 [![devDependency Status][dev-dep-image]][dev-dep-url]
 
-> ES6 react + webpack + react-router + code-chunking starter project.
+> React + react-router code-chunking example
 
-This repository was created to demonstrate a simple application that lazy loads views/scripts using the latest [React](https://www.npmjs.com/package/react) and [React-Router](https://www.npmjs.com/package/react-router).  Bundling and chunking gets handled with [Webpack](https://www.npmjs.com/package/webpack) and is written in ES6.
+This repository was created to demonstrate a dead simple application that lazy loads views/scripts using the latest [React](https://www.npmjs.com/package/react) and [React-Router](https://www.npmjs.com/package/react-router).  Bundling and chunking gets handled with [Webpack](https://www.npmjs.com/package/webpack) and is written using ES6 modules.
 
 ## Requirements
 The following tools are required to get this running.
@@ -35,11 +35,10 @@ $ npm install
 
 ### Run project
 ```sh
-$ npm run compile
+$ npm run dev
 ```
-**Open your browser and navigate to http://127.0.0.1:8080/**
+**Open your browser and navigate to localhost:8080**
 
-[npm-url]: https://npmjs.com/package/es6-event-emitter
 [npm-version-image]: https://img.shields.io/npm/v/npm.svg?maxAge=2592000
 [dev-dep-image]: https://david-dm.org/JFusco/react-webpack-es6-chunking/dev-status.svg
 [dev-dep-url]: https://david-dm.org/JFusco/react-webpack-es6-chunking#info=devDependencies

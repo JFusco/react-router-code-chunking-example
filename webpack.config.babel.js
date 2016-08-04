@@ -38,6 +38,9 @@ export default {
 			minChunks: 2
 		})
 	],
+	devServer: {
+		historyApiFallback: true
+	},
 	resolve: {
 		extensions: ['', '.js']
 	}

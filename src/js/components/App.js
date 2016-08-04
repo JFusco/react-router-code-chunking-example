@@ -2,7 +2,7 @@
 
 import React, { Component } from 'react';
 import { Router, Route, Link } from 'react-router';
-import Nav from './nav';
+import Nav from './Nav';
 
 class App extends Component {
 	constructor(props){
